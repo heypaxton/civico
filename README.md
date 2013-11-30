@@ -1,6 +1,6 @@
 # Civico
 
-TODO: Write a gem description
+A gem for accessing the Google Civic Information API
 
 ## Installation
 
